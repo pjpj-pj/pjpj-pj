@@ -1,6 +1,6 @@
 <!-- Level 1: Simple bio and stats -->
 
-## 👋 Hi there, I'm Patrick!
+# 👋 Hi there, I'm Patrick!
 
 Here are some ideas to get you started:
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=pjpj-pj&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/pjpj-pj/github-readme-stats#gh-light-mode-only)
 -->
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/patrickjamesnedula16) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pj.nedula/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/patrick-james-nedula-87a15b2b0/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/pjpjpjz/) 
 
 # 💻 Tech Stack:
