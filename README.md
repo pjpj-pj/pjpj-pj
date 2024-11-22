@@ -2,8 +2,6 @@
 
 # 👋 Hi there, I'm Patrick!
 
-Here are some ideas to get you started:
-
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech </br>
 👨‍🎓 Studied Bachelor of Science in Computer Science at  Adamson University </br>
 🙋‍♂️ Very passionate on building and developing things! </br>
