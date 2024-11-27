@@ -1,6 +1,6 @@
 <!-- Level 1: Simple bio and stats -->
 
-# 👋 Hi there, I'm Patrick!
+# 👋 Hi there, I'm Pj!
 
 👩🏻‍💻 All about my journey in Software Engineering and learnings in tech </br>
 👨‍🎓 Studied Bachelor of Science in Computer Science at  Adamson University </br>
