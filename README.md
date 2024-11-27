@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Patrick!
 
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech </br>
+👩🏻‍💻 All about my journey in Software Engineering and learnings in tech </br>
 👨‍🎓 Studied Bachelor of Science in Computer Science at  Adamson University </br>
 🙋‍♂️ Very passionate on building and developing things! </br>
 📫 Currently learning about React </br>
