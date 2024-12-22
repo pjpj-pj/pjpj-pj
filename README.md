@@ -2,10 +2,9 @@
 
 # 👋 Hi there, I'm Pj!
 
-👩🏻‍💻 All about my journey in Software Engineering and learnings in tech </br>
-👨‍🎓 Studied Bachelor of Science in Computer Science at  Adamson University </br>
-🙋‍♂️ Very passionate on building and developing things! </br>
-📫 Currently learning about React </br>
+👩🏻‍💻 All about my journey in Software Engineering </br>
+👨‍🎓 Studied Bachelor of Science in Computer Science at Adamson University </br>
+🙋‍♂️ Very passionate on building and developing things </br>
 
 <!-- GitHub stats from (https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=pjpj-pj&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/pjpj-pj/github-readme-stats#gh-dark-mode-only)
